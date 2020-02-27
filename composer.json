@@ -1,0 +1,13 @@
+{
+    "name": "tolyansky/fix-protocol-php",
+    "description": "FIX (Financial Information Exchange) protocol implementation in PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anatoly Grigoryev",
+            "email": "a-natolio@yandex.ru"
+        }
+    ],
+    "require": {}
+}
