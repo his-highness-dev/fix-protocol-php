@@ -1,5 +1,5 @@
 {
-    "name": "tolyansky/fix-protocol-php",
+    "name": "tolyanski/fix-protocol-php",
     "description": "FIX (Financial Information Exchange) protocol implementation in PHP",
     "type": "library",
     "license": "MIT",
